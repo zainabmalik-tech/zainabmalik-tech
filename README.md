@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am learning Python, Java, Data Science, and Artificial Intelligence while developing my programming and problem-solving skills.<br><br>I am interested in collaborating on beginner-friendly projects in AI, Machine Learning, and Data Science.<br><br>I enjoy exploring new technologies, building projects, and continuously learning.
+Hi, I'm Zainab Malik, an aspiring AI and Data Science enthusiast with a keen interest in technology and innovation.
+
+I’m developing my skills in Python, Java, and Artificial Intelligence, while exploring Machine Learning, Data Science, and real-world applications of technology. I’m always eager to learn, collaborate, and turn innovative ideas into meaningful projects.
 
 
 ## 🌐 Socials:
